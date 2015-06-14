@@ -4,7 +4,7 @@ Diamond Researcher
 
 author: Hayes Williams
 
-date: Sun Jun 14 12:26:54 2015
+date: Sun Jun 14 12:42:59 2015
 
 
 What and Why?
@@ -18,6 +18,10 @@ translates into a price out of your pocket.
 Explore the relationships between these attributes using our 50,000+ diamond
 data set _before_ walking into the store so you're able to make more informed 
 decisions and get the most for your money.
+
+Diamond Researcher App Location: 
+  [https://williamshayes.shinyapps.io/09-DataProducts]
+  (https://williamshayes.shinyapps.io/09-DataProducts)
 
 How Do You Use It?
 ========================================================
